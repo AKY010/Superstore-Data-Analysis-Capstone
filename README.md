@@ -34,3 +34,7 @@ Consumer segment contributes over 50% of total sales
 Certain high-sales products have low profit margins
 
 Faster delivery correlates with higher customer retention
+
+## Dashboard Preview
+<img width="1376" height="777" alt="{2EA71839-862B-4257-BC6B-023EB648BC02}" src="https://github.com/user-attachments/assets/6a924e4a-01d6-4c17-9366-6c0802137667" />
+
